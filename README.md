@@ -27,7 +27,7 @@ This list contains:
 - Clean without any mods or patches. Launch the game and reach the main title menu, then close it.
 
 ### 2) Install the latest OpenMW RC build from Github
-- The current version for LP 1.0 is RC7 but always use the latest RC.
+- The current version for LP 1.2 is RC7 but always use the latest RC.
 
 ### 3) Wabbajack
 - Click Browse Modlist and checkmark "Non-Featured Lists". Click the download icon on Lost Prophecies. Select the install location and wait for it to finish.
