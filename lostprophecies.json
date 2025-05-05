@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "LostPropheciesMetadata, Wabbajack.Lib",
+    "title": "LostProphecies",
+    "description": "Vanilla+ OpenMW Modlist",
+    "author": "FloppaFriday",
+    "maintainers": [
+      "github/Fropaccino"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "OpenMW",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/DTIOlnD.png",
+      "readme": "https://github.com/Fropaccino/lostprophecies/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Lost%20Prophecies%201.0.wabbajack_72ffede0-5c4e-4db8-80c4-c66c4d74a21a",
+      "machineURL": "machineURL",
+      "discordURL": "http://discord.gg/fNgshCXE3h"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "0yuOyr7EK3E=",
+      "Size": 182587752,
+      "NumberOfArchives": 116,
+      "SizeOfArchives": 44199871196,
+      "NumberOfInstalledFiles": 355319,
+      "SizeOfInstalledFiles": 52572107137
+    },
+    "version": "1.0"
+  }
+]
+
