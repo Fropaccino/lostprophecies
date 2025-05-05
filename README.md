@@ -40,11 +40,11 @@ This list contains:
 
 ## Hotkeys in Lost Prophecies
 - Lost Prophecies has multiple mods that add different hotkeys for different purposes. Here are a few examples :
-  V is used in the Light-Hotkey lua mod
-  Right-Click is no longer the inventory, it's used for putting up your shield and blocking
-  C is now by default the inventory key
-  E and space have been inversed (E for activate, space for jumping)
-  F2 is to open Post-processing
-  F3 to see your FPS
+  - V is used in the Light-Hotkey lua mod
+  - Right-Click is no longer the inventory, it's used for putting up your shield and blocking
+  - C is now by default the inventory key
+  - E and space have been inversed (E for activate, space for jumping)
+  - F2 is to open Post-processing
+  - F3 to see your FPS
 
 ## Discord Link : discord.gg/fNgshCXE3h
