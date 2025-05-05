@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png "Lost Prophecies")
 # LOST PROPHECIES
 A vanilla+ OpenMW (0.49 RC7) modlist. I built this list with the goal of making Morrowind a less frustrating experience for new and returning players, while also keeping the game clean of not so lore-friendly mods. The goal was to not overhaul most locations and quests in case the player want to use the UESP wiki. 
 
