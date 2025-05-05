@@ -1,2 +1,2 @@
-# lostprophecies
+# LOST PROPHECIES
 Vanilla+ OpenMW Modlist
