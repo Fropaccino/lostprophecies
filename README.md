@@ -10,7 +10,7 @@ This list contains:
 - User interface overhauls
 - Fully voices NPCs and dialogues (VoV, VoT, AFFresh voiced, etc.)
 - Rebalanced Main Quests (All three)
-- Tamriel Rebuilt 25.05 and previews (with an immersive warning)
+- Tamriel Rebuilt 25.05 and previews (with an immersive warning) **Previews are disabled as of TR 25.05 until the update comes in**
 - Project Cyrodiil
 - Skyrim Home of the Nords
 
