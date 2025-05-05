@@ -35,7 +35,16 @@ This list contains:
 ### 4) Mod Organizer 2
 - Open the install location, and launch Mod Organizer 2.exe, in the top right menu dropdown you will have to go in <Edit> and add the paths to your openmw-launcher.exe and openmw.exe.
 
-### 5)Launch the game
-- Launch the game via mo2's dropdown menu, launch the game by running directly OpenMW.exe, not the launcher. You can still use  the launcher to edit resolution, refresh rate, etc. 
+### 5) Launch the game
+- Launch the game via mo2's dropdown menu, launch the game by running directly OpenMW.exe, not the launcher. You can still use  the launcher to edit resolution, refresh rate, etc.
+
+## Hotkeys in Lost Prophecies
+- Lost Prophecies has multiple mods that add different hotkeys for different purposes. Here are a few examples :
+  V is used in the Light-Hotkey lua mod
+  Right-Click is no longer the inventory, it's used for putting up your shield and blocking
+  C is now by default the inventory key
+  E and space have been inversed (E for activate, space for jumping)
+  F2 is to open Post-processing
+  F3 to see your FPS
 
 ## Discord Link : discord.gg/fNgshCXE3h
