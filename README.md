@@ -74,6 +74,8 @@ Lost Prophecies introduces several hotkey changes:
 | `Space`    | Jump (was `E`)                           |
 | `F2`       | Open Post-Processing menu                |
 | `F3`       | Show FPS                                 |
+| `X`        | Show Quests menu                         |
+| `O`        | Show Achievements                        |
 
 ---
 
