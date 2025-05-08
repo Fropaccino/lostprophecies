@@ -18,20 +18,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png",
       "readme": "https://github.com/Fropaccino/lostprophecies",
-      "download": "https://authored-files.wabbajack.org/Lost%20Prophecies%201.3.wabbajack_bba48685-94d6-4704-87fe-9b9eb160c758",
+      "download": "https://authored-files.wabbajack.org/Lost%20Prophecies%201.4.wabbajack_1989eb59-436a-4faa-b05c-34c82875df0f",
       "machineURL": "LostProphecies",
       "discordURL": "http://discord.gg/fNgshCXE3h"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "xLPwtnU1zis=",
-      "Size": 26543928,
-      "NumberOfArchives": 123,
-      "SizeOfArchives": 44209718425,
-      "NumberOfInstalledFiles": 355392,
-      "SizeOfInstalledFiles": 52208041277
+      "Hash": "nBAAHQW48Pw=",
+      "Size": 28214984,
+      "NumberOfArchives": 131,
+      "SizeOfArchives": 44236507012,
+      "NumberOfInstalledFiles": 355414,
+      "SizeOfInstalledFiles": 52212848280
     },
-    "version": "1.3"
+    "version": "1.4"
   }
 ]
 
