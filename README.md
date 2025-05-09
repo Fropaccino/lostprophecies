@@ -77,6 +77,7 @@ Lost Prophecies introduces several hotkey changes:
 | `F3`       | Show FPS                                 |
 | `X`        | Show Quests menu                         |
 | `O`        | Show Achievements                        |
+| `L`        | Show Progression                        |
 | `N`        | Play Keytar                     |
 ---
 
