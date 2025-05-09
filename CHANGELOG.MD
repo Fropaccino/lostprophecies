@@ -1,3 +1,6 @@
+# Lost Prophecies 1.6
+- Fixed Fresh Loot
+
 # Lost Prophecies 1.5
 - Added Immersive Morrowind
 - Added Friends Reunited
