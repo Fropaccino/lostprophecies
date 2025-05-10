@@ -1,3 +1,9 @@
+# Lost Prophecies 1.7 (Not yet released)
+- Fresh Loot has been updated (yet again)
+- Shields Up has been updated
+- Tamriel Rebuilt has been updated
+- Diverse Blood has been updated
+
 # Lost Prophecies 1.6
 - Fixed Fresh Loot
 
