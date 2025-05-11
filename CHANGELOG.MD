@@ -1,6 +1,6 @@
 # Lost Prophecies 1.7 (Not yet released)
 - Fresh Loot has been updated (yet again)
-- Shields Up has been updated
+- Shields Up has been updated and it is also now OPTIONAL
 - Tamriel Rebuilt has been updated
 - Diverse Blood has been updated
 - OpenMW Lua Helper Dialogue for Tamriel Rebuilt 25.05.09
