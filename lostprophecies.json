@@ -2,7 +2,7 @@
   {
     "$type": "LostPropheciesMetadata, Wabbajack.Lib",
     "title": "Lost Prophecies",
-    "description": "Vanilla+ OpenMW Modlist",
+    "description": "Vanilla+ OpenMW Modlist with almost fully voiced dialogues and other extra features.",
     "author": "FloppaFriday",
     "maintainers": [
       "github/Fropaccino"
@@ -18,20 +18,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png",
       "readme": "https://github.com/Fropaccino/lostprophecies",
-      "download": "https://authored-files.wabbajack.org/Lost%20Prophecies%201.6.wabbajack_7c1f270c-7fca-4e39-921b-f01cdf711b19",
+      "download": "https://authored-files.wabbajack.org/Lost%20Prophecies%201.7.wabbajack_ca143d83-c673-4bb9-9096-fb2c1a293ccb",
       "machineURL": "LostProphecies",
       "discordURL": "http://discord.gg/fNgshCXE3h"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "xX733o+qyvU=",
-      "Size": 33063512,
-      "NumberOfArchives": 137,
-      "SizeOfArchives": 44270931535,
-      "NumberOfInstalledFiles": 355681,
-      "SizeOfInstalledFiles": 52266001991
+      "Hash": "Hy2GOR1UIl4=",
+      "Size": 33260731,
+      "NumberOfArchives": 140,
+      "SizeOfArchives": 21726354511,
+      "NumberOfInstalledFiles": 355609,
+      "SizeOfInstalledFiles": 28966415571
     },
-    "version": "1.6"
+    "version": "1.7"
   }
 ]
 
