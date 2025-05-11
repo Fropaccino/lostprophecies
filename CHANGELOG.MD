@@ -1,4 +1,4 @@
-# Lost Prophecies 1.7 (Not yet released)
+# Lost Prophecies 1.7
 - Fresh Loot has been updated (yet again)
 - Shields Up has been updated and it is also now OPTIONAL
 - Tamriel Rebuilt has been updated
