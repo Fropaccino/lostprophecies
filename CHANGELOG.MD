@@ -4,6 +4,7 @@
 - Tamriel Rebuilt has been updated
 - Diverse Blood has been updated
 - OpenMW Lua Helper Dialogue for Tamriel Rebuilt 25.05.09
+- Added Journal and Scrolls (HD version of journals and papers)
 - Drastically reduced the size of Tamriel Rebuilt voices and Tamriel Rebuilt Grasping Fortune voices (from 18gb each to around 6gb each)
 
 # Lost Prophecies 1.6
