@@ -1,9 +1,11 @@
-# Lost Prophecies 1.8 (Not out yet)
+# Lost Prophecies 1.8
 - Added Dynamic Sounds for OpenMW
 - Updated Fresh Loot
 - Updated Protective Guards
 - Updated OpenMW Quest Menu
 - Updated ReAnimation v2
+- Fixed Voices of Tamriel to use the highest quality possible.
+- Added Audiobooks of Morrowind / Audiobooks of Tamriel
 
 
 # Lost Prophecies 1.7
