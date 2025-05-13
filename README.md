@@ -69,16 +69,16 @@ Lost Prophecies introduces several hotkey changes:
 | Key        | Function                                 |
 |------------|------------------------------------------|
 | `V`        | Toggle Light (Light-Hotkey mod)          |
-| `Right Click` | Raise shield / block (not inventory) |
-| `C`        | Open Inventory (default replaced)        |
 | `E`        | Activate objects (was `Space`)           |
 | `Space`    | Jump (was `E`)                           |
 | `F2`       | Open Post-Processing menu                |
 | `F3`       | Show FPS                                 |
-| `X`        | Show Quests menu                         |
+| `B`        | Show Quests menu                         |
 | `O`        | Show Achievements                        |
 | `L`        | Show Progression                        |
 | `N`        | Play Keytar                     |
+| `X`        | Play Audiobook                     |
+| `C`        | Stop Audiobook                    |
 ---
 
 ### 💬 **Join the Community**
