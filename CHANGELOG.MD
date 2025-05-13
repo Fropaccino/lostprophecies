@@ -2,6 +2,8 @@
 - Added Dynamic Sounds for OpenMW
 - Updated Fresh Loot
 - Updated Protective Guards
+- Updated OpenMW Quest Menu
+- Updated ReAnimation v2
 
 
 # Lost Prophecies 1.7
