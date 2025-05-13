@@ -1,3 +1,9 @@
+# Lost Prophecies 1.8 (Not out yet)
+- Added Dynamic Sounds for OpenMW
+- Updated Fresh Loot
+- Updated Protective Guards
+
+
 # Lost Prophecies 1.7
 - Fresh Loot has been updated (yet again)
 - Shields Up has been updated and it is also now OPTIONAL
