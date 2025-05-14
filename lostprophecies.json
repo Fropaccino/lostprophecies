@@ -1,37 +1,41 @@
 [
   {
-    "$type": "LostPropheciesMetadata, Wabbajack.Lib",
     "title": "Lost Prophecies",
-    "description": "Vanilla+ OpenMW Modlist with almost fully voiced dialogues and other extra features.",
+    "description": "Vanilla\u002B OpenMW Modlist with almost fully voiced dialogues and other extra features.",
     "author": "FloppaFriday",
     "maintainers": [
       "github/Fropaccino"
     ],
     "game": "morrowind",
+    "official": false,
     "tags": [
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png",
       "readme": "https://github.com/Fropaccino/lostprophecies",
-      "download": "https://authored-files.wabbajack.org/Lost%20Prophecies%201.7.wabbajack_ca143d83-c673-4bb9-9096-fb2c1a293ccb",
+      "download": "https://authored-files.wabbajack.org/Lost Prophecies 1.8.wabbajack_a2a38a23-fd21-45aa-9d56-121e4e9db5ac",
       "machineURL": "LostProphecies",
-      "discordURL": "http://discord.gg/fNgshCXE3h"
+      "discordURL": "http://discord.gg/fNgshCXE3h",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Hy2GOR1UIl4=",
-      "Size": 33260731,
-      "NumberOfArchives": 140,
-      "SizeOfArchives": 21726354511,
-      "NumberOfInstalledFiles": 355609,
-      "SizeOfInstalledFiles": 28966415571
+      "Hash": "CTY/w3kjwTM=",
+      "Size": 51973063,
+      "NumberOfArchives": 149,
+      "SizeOfArchives": 45430123545,
+      "NumberOfInstalledFiles": 356555,
+      "SizeOfInstalledFiles": 53536342952,
+      "TotalSize": 98966466497
     },
-    "version": "1.7"
+    "version": "1.8",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-14T00:15:33.2406458Z",
+    "repositoryName": ""
   }
 ]
-
