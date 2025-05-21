@@ -1,3 +1,12 @@
+# Lost Prophecies 1.9
+- Updated Dynamic Sounds for OpenMW (Like 1600 times)
+- Added Lucid Disturbing Dreams
+- Added DFPSO
+- Added Hit Reactions Animated
+- Added Roaring Arena
+- Added Vurt Rescaled Textures
+- Updated Freshloot, OWM Achievements, OpenMW Dynamic Actors, OWSE, OpenMW Quest Menu, Rafael Shaders Pack, Project Atlas
+
 # Lost Prophecies 1.8
 - Added Dynamic Sounds for OpenMW
 - Updated Fresh Loot
