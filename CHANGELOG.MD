@@ -1,3 +1,14 @@
+# Lost Prophecies 1.9.1
+- Updated Dynamic Sounds for OpenMW
+- Updated All races and classes unlocked
+- Added OpenMW animated pickup 
+- Added Pursuit for OMW
+- Updated FairCare
+- Added Fantasia Grass mod
+- Added Blacklist for Pursuit
+- Updated Lucid Disturbing Dreams
+- Updated OpenMW Lua helper
+
 # Lost Prophecies 1.9
 - Updated Dynamic Sounds for OpenMW (Like 1600 times)
 - Added Lucid Disturbing Dreams
