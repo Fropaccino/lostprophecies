@@ -1,3 +1,30 @@
+# Lost Prophecies 2.0
+- Added Expanded Loot - Food and Dishes
+- Added PTR Tapestries and EEC assets on Vvardenfell, PTR Weapons and Armor on Vvardenfell, TR Newspapers on Vvardenfell
+- Added Vurt's animated trees series
+- Added Guar riding, horse riding
+- Added Dwemer Airship quest
+- Added Caldera quests 
+- Re-added the fixed version of disturbing dreams
+- Added Dwemer Meshes Improvement
+- Added Dwemer Meshes Improvement - Revamped
+- Added Telvanni Meshes Improvement
+- Added MOMW Patches
+- Added Improved Weapon Meshes for Organic weapons, Iron, Stee, Ebony
+- Added Smooth Weapon Meshes for Glass and Orcish Weapons
+- Added Near Vanilla Sign Replacers for TR, VV and other lands
+- Added Mesh Fix 1.2, Correct Meshes 4.6a, Properly Smoothed Meshes, RR Better Meshes
+- Added OAAB Full upscale
+- Added Bardcraft
+- Added Arrow to the Knee - A Guard Voice Mod for Skyrim Home of the Nords
+- Updated :
+          - Rafael's Shader Pack
+          - HBFS
+          - OpenMW Lua Utility
+          - Tamriel Rebuilt
+          - Roaring Arena
+          - And many many more mods... 
+
 # Lost Prophecies 1.9.1
 - Updated Dynamic Sounds for OpenMW
 - Updated All races and classes unlocked
