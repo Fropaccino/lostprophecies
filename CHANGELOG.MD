@@ -1,3 +1,13 @@
+# Lost Prophecies 2.0.2
+- Updated Roaring Arena
+- Updated OpenMW Quest Menu
+
+# Lost Prophecies 2.0.1
+- Updated Bardcraft,
+- Updated OpenMW Dynamic Actors,
+- Updated Rafael's Shader Pack,
+- Added ZMod Utils
+
 # Lost Prophecies 2.0
 - Added Expanded Loot - Food and Dishes
 - Added PTR Tapestries and EEC assets on Vvardenfell, PTR Weapons and Armor on Vvardenfell, TR Newspapers on Vvardenfell
