@@ -4,6 +4,7 @@
 - Updated Fresh Loot
 - Updated Fair Care
 - Added Rapport - OpenMW companions
+- Updated HBFS
 
 # Lost Prophecies 2.0.1
 - Updated Bardcraft,
