@@ -1,6 +1,9 @@
 # Lost Prophecies 2.0.2
 - Updated Roaring Arena
 - Updated OpenMW Quest Menu
+- Updated Fresh Loot
+- Updated Fair Care
+- Added Rapport - OpenMW companions
 
 # Lost Prophecies 2.0.1
 - Updated Bardcraft,
