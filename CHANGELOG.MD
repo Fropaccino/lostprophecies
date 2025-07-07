@@ -1,3 +1,21 @@
+## Version 2.0.5 is out ##
+
+- Updated OpenMW Skyrim Style Quest Notifications
+- Updated SSQN Patches
+- Updated Tamriel Rebuilt
+- Updated Lua Helper Dialogue
+- Updated OpenMW Impact Effects
+- Updated Dynamic Actors
+- Updated Dynamic Sounds for OpenMW
+- Updated Morrowind Optimization Patch
+- Updated Potential Character Progression
+
+- Added a few joke mods (Cars and Dwemer Night Terror... **disable them since they are enabled by default**)
+- Added Better Balanced Combat (If you want 100% hitrate in your game - optional)
+
+Should be save-safe. 
+**Also update OpenMW 0.49 to the latest release, should solve a lot of bugs.**
+
 # Lost Prophecies 2.0.2
 - Updated Roaring Arena
 - Updated OpenMW Quest Menu
