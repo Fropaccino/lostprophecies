@@ -1,4 +1,13 @@
-## Version 2.0.5 is out ##
+## Lost Prophecies 2.1 ##
+- Removed all joke mods (cuz apparently they were confusing some of y'all)
+- Updated HBFS and FairCare OpenMW
+- Added Quick Char
+- Added Better Balanced Combat Patch for all races of Tamriel Rebuilt
+- Updated Rafael's Shader Pack
+- Updated AFFresh Fully voiced + Greetings
+- ADDED PROJECT CYRODIIL FULLY VOICED !
+
+ ## Version 2.0.5 is out ##
 
 - Updated OpenMW Skyrim Style Quest Notifications
 - Updated SSQN Patches
