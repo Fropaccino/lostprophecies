@@ -13,7 +13,7 @@ Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW.
 - 🎨 Visual improvements (e.g., MET, Impact Effects, shaders)  
 - ⚔️ Gameplay enhancements (e.g., better combat, MultiMark)  
 - 🧭 User interface upgrades  
-- 🗣️ Fully voiced dialogue (VoV, VoT, A Fresh Voice, etc.)  
+- 🗣️ Fully AI voiced dialogue (VoV, VoT, A Fresh Voice, etc.)  
 - 🧩 Rebalanced main quests (all three)  
 - 🌍 Massive expansions:
   - Tamriel Rebuilt 25.05 *(Previews disabled until next update)*  
