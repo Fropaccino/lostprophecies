@@ -1,3 +1,34 @@
+## Lost Prophecies 2.3 ##
+Save-safe: Probably not unfortunately... but test it and backup your saves
+
+✅  Optional mods and leveling system will now be disabled by default when you first download the list
+✅ Added Skyrim HOTN Fully voiced
+✅ Added Quest Guider Lite / Proximity Tool / HUDMarkers (For fully working HUD-Displayed Quests Objectives)
+✅ Replaced Zack's Lua Multimark with Pure Lua Multimark
+✅ Updated once again Mym's mod suite (Take Cover, FairCare, HBFS, etc.)
+✅ Updated Vurt's animated trees
+✅ Removed TR-Factions integration for consistency with the list's vision
+
+ New "Quests markers" are optional and will come disabled by default, I personally don't like them very much, the UI is confusing
+
+## Lost Prophecies 2.2 ##
+Will be up in an hour or so
+
+UPDATES UPDATES UPDATES 
+Morrowind Interior Project
+OpenMW Dynamic Actors
+Glow in the Dahrk
+Interface Reimagined
+Tamriel Rebuilt
+Lua helper Dialogue
+
+Additions:
+The Imperial Legion Badge
+Lore-Friendly Creatures Vanilla
+Alteration Movement
+
+Note: won't have any major updates for a while, I'm rebuilding a new computer soonish and waiting for parts in the meantime I'm doing a majore cleanup of my current hard drives
+
 ## Lost Prophecies 2.1 ##
 - Removed all joke mods (cuz apparently they were confusing some of y'all)
 - Updated HBFS and FairCare OpenMW
