@@ -41,7 +41,7 @@ Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW.
 - Launch the game once and reach the title screen, then close.
 
 #### **2. Install OpenMW RC**
-- Download and install the latest **Release Candidate**.
+- Download and install the latest **Release**.
 - *Note: LP is built for 0.49, but newer versions are typically compatible.*
 - You must run OpenMW at least once. 
 
