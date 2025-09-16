@@ -28,7 +28,7 @@ Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW.
 
 - **~50 GB of free disk space** (less if you delete downloaded files after install)  
 - **Morrowind GOTY edition** (from Steam or GOG)  
-- **Latest OpenMW Release Candidate** ([Download here](https://github.com/OpenMW/openmw/releases/))  
+- **Latest OpenMW Release** ([Download here](https://github.com/OpenMW/openmw/releases/))  
 - **Wabbajack** ([Download here](https://www.wabbajack.org/))  
 - **Nexus Mods account** (Premium recommended for faster download speeds)
 
