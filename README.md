@@ -1,7 +1,7 @@
 ![Lost Prophecies Banner](https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png)
 
 # **LOST PROPHECIES**
-**A Vanilla+ Modlist for OpenMW 0.49 RC7**
+**A Vanilla+ Modlist for OpenMW 0.50
 
 Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW. Its goal is to smooth out Morrowind’s rough edges—especially for new or returning players—without sacrificing the game's original charm and lore-friendliness. All major locations and quests are left intact to ensure full compatibility with resources like the UESP wiki.
 
