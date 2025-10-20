@@ -1,3 +1,21 @@
+## Lost Prophecies 2.7 ## (Up as soon as Wabbajack updates)
+
+Big... Update / Patch / Addition / Removal
+
+Updated Mods :
+- Patch for Purists 5.0.2
+- SSQN Patches
+- Proximity Tool, Quest Guider Lite, Quest Data for the base game and TR-PC-SHotN
+- PTR Tapestries and EEC Assets
+
+Added / Removed Mods :
+- Simple OpenMW HUD -> Replaced by Better Bars OpenMW
++ OpenMW Dynamic Animations 1.0a
++ Obviously Better Colovian Fur Helm (optional mod)
++ Enchant Xfer  (optional mod)
+
+This should be the last big patch before holiday season knocks on the door. Have fun lads !
+
 ## Lost Prophecies 2.3 ##
 Save-safe: Probably not unfortunately... but test it and backup your saves
 
