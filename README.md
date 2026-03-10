@@ -26,7 +26,7 @@ Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW.
 
 ### 📦 Requirements
 
-- **~50 GB of free disk space** (less if you delete downloaded files after install)  
+- **~140 GB of free disk space** (less if you delete downloaded files after install)  
 - **Morrowind GOTY edition** (from Steam or GOG)  
 - **Latest OpenMW Release** ([Download here](https://github.com/OpenMW/openmw/releases/))  
 - **Wabbajack** ([Download here](https://www.wabbajack.org/))  
@@ -68,7 +68,6 @@ Lost Prophecies introduces several hotkey changes:
 
 | Key        | Function                                 |
 |------------|------------------------------------------|
-| `V`        | Toggle Light (Light-Hotkey mod)          |
 | `E`        | Activate objects (was `Space`)           |
 | `Space`    | Jump (was `E`)                           |
 | `F2`       | Open Post-Processing menu                |
@@ -77,8 +76,6 @@ Lost Prophecies introduces several hotkey changes:
 | `O`        | Show Achievements                        |
 | `L`        | Show Progression                        |
 | `N`        | Play Keytar                     |
-| `X`        | Play Audiobook                     |
-| `C`        | Stop Audiobook                    |
 ---
 
 ### 💬 **Join the Community**
