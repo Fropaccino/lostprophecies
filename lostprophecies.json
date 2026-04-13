@@ -19,24 +19,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png",
       "readme": "https://github.com/Fropaccino/lostprophecies",
-      "download": "https://authored-files.wabbajack.org/Lost Prophecies 2.9.wabbajack_86305049-090d-4f16-8410-94de23f8fd01",
+      "download": "https://authored-files.wabbajack.org/Lost Prophecies 2.9.wabbajack_05116388-d79d-44cf-9248-03e4f9ee6f8b",
       "machineURL": "LostProphecies",
       "discordURL": "http://discord.gg/fNgshCXE3h",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "lAa6LQs7nLg=",
-      "Size": 34878064,
-      "NumberOfArchives": 263,
-      "SizeOfArchives": 68906145339,
-      "NumberOfInstalledFiles": 579496,
-      "SizeOfInstalledFiles": 80770257447,
-      "TotalSize": 149676402786
+      "Hash": "fu4kp53L4ro=",
+      "Size": 35232423,
+      "NumberOfArchives": 265,
+      "SizeOfArchives": 74624984082,
+      "NumberOfInstalledFiles": 593569,
+      "SizeOfInstalledFiles": 89369132253,
+      "TotalSize": 163994116335
     },
     "version": "2.9",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-13T12:06:16.5438987Z",
+    "dateUpdated": "2026-04-13T13:06:32.7273642Z",
     "repositoryName": ""
   }
 ]
