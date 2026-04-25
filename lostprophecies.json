@@ -15,7 +15,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/Fropaccino/lostprophecies/main/lost_prophecies_16_9_cropped.png",
       "readme": "https://github.com/Fropaccino/lostprophecies",
