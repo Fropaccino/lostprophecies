@@ -7,11 +7,12 @@ OAAB_Data.esm
 Patch for Purists.esm
 Tamriel_Data.esm
 TR_Mainland.esm
+Sky_Main.esm
 Cyr_Main.esm
 Expanded Loot.esm
 RoaringArena.esm
-Sky_Main.esm
 AFFresh.esm
+FGM_AC.esp
 FGM_AI.esp
 FGM_AI_flowerfields.esp
 FGM_AL.esp
@@ -23,7 +24,7 @@ FGM_SD.esp
 FGM_SE_BM.esp
 FGM_SO_BM.esp
 FGM_WG.esp
-FGM_AC.esp
+Bloodmoon Rebalance.ESP
 FGM_TR.esp
 FGM_SHOTN.esp
 FGM_SE_TR_BM.esp
@@ -31,128 +32,151 @@ FGM_SE_CYR.esp
 FGM_RI_TR_BM.esp
 FGM_RI_CYR.esp
 FGM_CYR.esp
-Patch for Purists - Book Typos.ESP
-Patch for Purists - Semi-Purist Fixes.ESP
+Tribunal Rebalance.ESP
+Better Clothes Complete.ESP
+The Publicans.ESP
+Services Restored.ESP
+Dubdilla Location Fix.ESP
+Tamriel_Data.omwscripts.esp
+The Doors of Oblivion 1.4.esp
 adamantiumarmor.esp
-AreaEffectArrows.esp
-bcsounds.esp
-EBQ_Artifact.esp
 entertainers.esp
+AreaEffectArrows.esp
+EBQ_Artifact.esp
+bcsounds.esp
 LeFemmArmor.esp
 master_index.esp
-Lake Fjalding Anti-Suck.ESP
-correctUV Ore Replacer_fixed.esp
-MorrowindInteriorsProject.ESP
-MorrowindInteriorsProject_Bloodmoon.ESP
-MorrowindInteriorsProject_TR.ESP
-k_weather.esp
+Reputation_Fixes_All.ESP
+Under Construction.esp
+ErnFatigueFix.omwscripts.esp
+tamrielrebuilt.omwscripts.esp
+OAAB Leveled Lists.ESP
+OAAB Leveled Creatures.ESP
+OAAB Creature Loot.ESP
+NearVanillaRoadSigns.esp
+Vurt's Grazelands Unique Trees.ESP
+Bob's Diverse Blood.ESP
+Diverse Blood - SHotN.ESP
+Diverse Blood - Project Cyrodiil.ESP
+Diverse Blood - Tamriel Data.ESP
+Diverse Blood - Tamriel Rebuilt.esp
+Dynamic Ambient Visual Effects.omwscripts.esp
+Impact Effects.omwscripts.esp
 GITD_WL_RR_Interiors.esp
-AFFA_Wilhelm.ESP
-distant seafloor bloodmoon patch.esp
-DistantEbonTower.ESP
-Cantons_on_the_Global_Map_v1.1.esp
-Quest Voice Greetings.ESP
-SKYGRD.ESP
-S.W.I.T.ESP
-S.E.R.A.esp
-Idle Talk.ESP
-Great Service.ESP
-Gares Last Gasp.ESP
-QuestVoiceGreetings_TamrielData_patch.esp
+ArrowStick.omwscripts.esp
+AltShieldsRemover.ESP
+Containers Animated.esp
+ReAnimation_API.omwscripts.esp
+ReAnimation_v2_Rogue.omwscripts.esp
+Animated Pickup and Shop Around.omwscripts.esp
+Dynamic Actors.omwscripts.esp
+Dynamic Animations.omwscripts.esp
+OpenMW_luahelper.omwscripts.esp
 OpenMW_luahelper.esp
 OpenMW_luahelper_dialog.esp
 OpenMW_luahelper_dialog_TR.esp
-OpenMW_luahelper_dialog_PfP.esp
-AFFresh_fully_voiced.esp
-AFFresh_greeting.esp
-AFFresh_fully_voiced_OpenMW_patch.esp
-Sky_Main_fully_voiced.esp
-Sky_Main_greeting.esp
-Cyr_Main_fully_voiced_OpenMW_patch.esp
-Bloodmoon Rebalance.ESP
-Tribunal Rebalance.ESP
-Beware the Sixth House.ESP
-SpeechcraftRebalanceRebalanced.esp
-Barristers Guild OE Questline.esp
-Protective Guards for OpenMW - Lua Edition.ESP
-All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP
-Lore_Accurate_Artifacts.ESP
-Expansion Delay.ESP
-Dubdilla Location Fix.ESP
-The Publicans.ESP
-Reputation_Fixes_All.ESP
-The Doors of Oblivion 1.4.esp
-Bob's Diverse Blood.ESP
-Diverse Blood - Project Cyrodiil.ESP
-Diverse Blood - SHotN.ESP
-Diverse Blood - Tamriel Data.ESP
-Diverse Blood - Tamriel Rebuilt.esp
-Projectile Overhaul - All Modules.esp
-NoWitnessNoBounty.omwscripts.esp
-Impact Effects.omwscripts.esp
-friendly-autosave.omwscripts.esp
-AttendMe.omwscripts.esp
-distant-fixes-lua-edition.omwscripts.esp
-MaxarChargeTime.omwscripts.esp
-bound-balance-testing.omwaddon.esp
-bound-balance.omwaddon.esp
-bound-balance.omwscripts.esp
-Speechcraft Rebalance.omwaddon.esp
-convenient-thief-tools.omwscripts.esp
-Dynamic Actors.omwscripts.esp
-Dynamic Ambient Visual Effects.omwscripts.esp
-DynamicMusic.omwscripts.esp
-FatigueSpeedAndCarryWeightRebalance.omwaddon.esp
-HitAndMissIndicators.omwscripts.esp
-LightHotkey.omwscripts.esp
-MostWantedNerevarine.omwscripts.esp
-NoWitnessNoBounty.omwaddon.esp
-omw-achievements.omwscripts.esp
-OpenMW_luahelper.omwscripts.esp
-Perfect Placement.omwscripts.esp
-pharis-magicka-regeneration.omwaddon.esp
-pharis-magicka-regeneration.omwscripts.esp
-Pickpocket Rebalance.omwaddon.esp
-protective_guards_for_omw.omwscripts.esp
-questmenu.omwscripts.esp
-ReAnimation_API.omwscripts.esp
-ReAnimation_v2_Rogue.omwscripts.esp
-smart-ammo.omwscripts.esp
-SME - Actor UI and Healthbar.omwscripts.esp
-SSQN.omwscripts.esp
-Tamriel_Data.omwscripts.esp
-tamrielrebuilt.omwscripts.esp
+OpenMW_luahelper_dialog_Sky.esp
+OpenMW_luahelper_dialog_Cyr.esp
 VoV OpenMW.omwscripts.esp
-TR_Dra-VashaI-V2.esp
-Containers Animated.esp
-DynamicSounds.omwscripts.esp
-audiobook-openmw.omwscripts.esp
-DFPSO.omwscripts.esp
-HitReactionsAnimated.omwscripts.esp
-Animated Pickup + StS.omwscripts.esp
-pursuit_for_omw.omwscripts.esp
-Under Construction.esp
-Better Propylon Teleport Warp.esp
-Carelessly_Crazy_Caldera_Community.ESP
+AFFresh_fully_voiced_OpenMW_patch.esp
+AFFresh_greeting.esp
+Sky_Main_fully_voiced.esp
+Cyr_Main_fully_voiced_OpenMW_patch.esp
+Ebonheart_Underworks_fully_voiced.esp
+Shipyards of Vvardenfell_fully_voiced.esp
+Sky_Main_greeting.esp
+S3maphore.esp
+All Races and Classes Unlocked - Vanilla and Tamriel_Data.ESP
+FatigueSpeedAndCarryWeightRebalance.omwaddon.esp
+Projectile Overhaul - All Modules.esp
+Lore_Accurate_Artifacts.ESP
+MaxarChargeTime.omwscripts.esp
+NoWitnessNoBounty.omwaddon.esp
+Pickpocket Rebalance.omwaddon.esp
+NoWitnessNoBounty.omwscripts.esp
+Perfect Placement.omwscripts.esp
+Speechcraft Rebalance.omwaddon.esp
+ZerkishAutoSave.omwscripts.esp
+smart-ammo.omwscripts.esp
+state-based-magicka-regen.omwscripts.esp
+puremultimark.omwscripts.esp
+PotentialCharacterProgression.omwaddon.esp
+PetTheScribs.omwscripts.esp
+fresh-loot.omwscripts.esp
+fresh-loot.omwaddon.esp
+Bardcraft.ESP
+Bardcraft.omwscripts.esp
+Corporeal-Carryable-Containers.omwscripts.esp
+Enchanting Balance Redone.esp
+NiftySpellPack.omwaddon.esp
+Early Transport to Mournhold.esp
+Gentleman's Spell Rebalance.ESP
+Limitless_Storage_for_all_Containers.esp
+Talking Trains Speechcraft.omwscripts.esp
+PotentialCharacterProgression.omwscripts.esp
+PotentialCharacterProgression_ModifiedLevelUps_15.omwaddon.esp
 Dwemer Airship.ESP
+Shipyards of Vvardenfell.esp
+Shipyards of Vvardenfell_greeting.esp
+Barristers Guild OE Questline.esp
+Beware the Sixth House.ESP
 Dwemer Airship_Exterior.ESP
-kd_ldd.omwscripts.esp
-Lucid Disturbing Dreams.ESP
-Gargoyle Fix.esp
-NearVanillaRoadSigns.esp
-Expanded Loot - Food and Dishes.ESP
+RoaringArena_ProjectCyrodiil.ESP
+Ebonheart_Underworks.esp
+Ebonheart_Underworks_greetings.esp
+Morrowind Quests Redux All-In-One.esp
+RoaringArena_OAAB.ESP
+RoaringArena_SkyrimHomeOfTheNords.ESP
+RoaringArena_Solstheim.ESP
+TR_Dra-VashaI-V2.esp
+ratcatchersguild.ESP
 Expanded Loot - Food and Dishes - TR Implementation.ESP
+Guarded_Dungeon_Entrances_for_Skyrim_Home_Of_The_Nords.esp
+TR Newspaper Spawns on Vvardenfell.ESP
+Expanded Loot - Food and Dishes.ESP
+Guarded_Dungeon_Entrances_for_Tamriel_Rebuilt.esp
+Guarded Dungeon Entrances.esp
+Guarded_Dungeon_Entrances_for_Project_Cyrodiil.esp
 PTR Tapestries & EEC on VV.ESP
 PTR Weapons & Armor on VV.ESP
-RoaringArena_OAAB.ESP
-RoaringArena_ProjectCyrodiil.ESP
-RoaringArena_SkyrimHomeOfTheNords.ESP
-TR Newspaper Spawns on Vvardenfell.ESP
-Morrowind Quests Redux All-In-One.esp
-AlterationMovement.omwscripts.esp
-lack_AlterationMovement.ESP
+Unofficial TR Spells.omwscripts.esp
+distant-fixes-lua-edition.omwscripts.esp
+distant seafloor bloodmoon patch.esp
+DistantEbonTower.ESP
+Better Bodies.esp
+BetterTRBodies.ESP
+Protective Guards for OpenMW - Lua Edition.ESP
+protective_guards_for_omw.omwscripts.esp
 Creatures_RP_Purist.ESP
-Creatures_RP_daedric_drop_rebalance.ESP
-The Imperial Legion Badge.esp
-puremultimark.omwscripts.esp
+DremoraVariety.omwscripts.esp
+Completionist - DoO.omwscripts.esp
+Completionist - TR Patch.omwscripts.esp
+AttendMe.omwscripts.esp
+BetterBars.omwscripts.esp
+Completionist - SV.omwscripts.esp
+Cantons_on_the_Global_Map_v1.1.esp
+Completionist - AFFresh.omwscripts.esp
+Completionist.omwscripts.esp
+Completionist - Barrister's Guild.omwscripts.esp
+Completionist - ETM.omwscripts.esp
+Completionist - EU.omwscripts.esp
+Completionist - PC Patch.omwscripts.esp
+Completionist - RA.omwscripts.esp
+Completionist - SHOTN Patch.omwscripts.esp
+Completionist - TRV.omwscripts.esp
+FloatingHealthbars.omwscripts.esp
+questmenu.omwscripts.esp
+MagicWindowExtender.omwscripts.esp
+MostWantedNerevarine.omwscripts.esp
+omw-achievements.omwscripts.esp
+SSQN.omwscripts.esp
+removeSpellFix.omwaddon.esp
+StatsWindow.ESP
+StatsWindow.omwscripts.esp
+ZModUtils.omwscripts.esp
+BC_mara_fix.esp
+EbonheartUnderworksMOMWPatch.esp
+Gargoyle Fix.esp
+SpeechcraftRebalanceRebalanced.esp
+correctUV Ore Replacer_fixed.esp
 Merged Objects.esp
