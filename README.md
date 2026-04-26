@@ -3,19 +3,19 @@
 # **LOST PROPHECIES**
 **A Vanilla+ Modlist for OpenMW 0.50
 
-Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW. Its goal is to smooth out Morrowind’s rough edges—especially for new or returning players—without sacrificing the game's original charm and lore-friendliness. All major locations and quests are left intact to ensure full compatibility with resources like the UESP wiki.
+Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW. Its goal is to smooth out Morrowind’s rough edges, especially for new or returning players, without sacrificing the game's original charm and lore-friendliness. All major locations and quests are left intact to ensure full compatibility with resources like the UESP wiki.
 
 ---
 
 ### ✨ **Features**
 
 - ✅ Lore-friendly bug fixes  
-- 🎨 Visual improvements (e.g., MET, Impact Effects, shaders)  
-- ⚔️ Gameplay enhancements (e.g., better combat, MultiMark)  
-- 🧭 User interface upgrades  
-- 🗣️ Fully AI voiced dialogue (VoV, VoT, A Fresh Voice, etc.)  
-- 🧩 Rebalanced main quests (all three)  
-- 🌍 Massive expansions:
+- ✅ Visual improvements (e.g., MET, Impact Effects, shaders)  
+- ✅ Gameplay enhancements (e.g., better combat, MultiMark)  
+- ✅  User interface upgrades  
+- ✅  Fully AI voiced dialogue (VoV, VoT, A Fresh Voice, etc.)  
+- ✅ Rebalanced main quests (all three)  
+- ✅  Massive expansions:
   - Tamriel Rebuilt 25.05 *(Previews disabled until next update)*  
   - Project Cyrodiil  
   - Skyrim: Home of the Nords  
@@ -26,9 +26,9 @@ Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW.
 
 ### 📦 Requirements
 
-- **~140 GB of free disk space** (less if you delete downloaded files after install)  
+- **~115 GB of free disk space** (less if you delete downloaded files after install)  
 - **Morrowind GOTY edition** (from Steam or GOG)   (The game needs to be in ENGLISH locale or else this modpack will not work and Wabbajack will also fail)
-- **Latest OpenMW Release** ([Download here](https://github.com/OpenMW/openmw/releases/))  
+- **Latest OpenMW DEV Release (0.51)** ([Download here](https://github.com/OpenMW/openmw/releases/))  
 - **Wabbajack** ([Download here](https://www.wabbajack.org/))  
 - **Nexus Mods account** (Premium recommended for faster download speeds)
 
@@ -72,7 +72,7 @@ Lost Prophecies introduces several hotkey changes:
 | `Space`    | Jump (was `E`)                           |
 | `F2`       | Open Post-Processing menu                |
 | `F3`       | Show FPS                                 |
-| `B`        | Show Quests menu                         |
+| `X`        | Show Quests menu                         |
 | `O`        | Show Achievements                        |
 | `L`        | Show Progression                        |
 | `N`        | Play Keytar                     |
