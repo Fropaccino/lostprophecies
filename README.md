@@ -50,14 +50,14 @@ Lost Prophecies is a carefully curated **Vanilla+** modlist designed for OpenMW.
 - Find **Lost Prophecies** and click the download icon.  
 - Choose your install location and let it run.
 
-#### **4. Configure Mod Organizer 2**
+#### **4. Configure Mod Organizer 2** (Optional, this part can be skipped entirely as LP comes packed with OpenMW already)
 - Open the install folder → Launch `ModOrganizer.exe`.  
 - In the top-right dropdown:  
   - Click **Edit...**  
   - Add the paths to both `openmw.exe` and `openmw-launcher.exe`.
 
 #### **5. Launch the Game**
-- Use MO2’s dropdown to select and run `openmw.exe` directly.  
+- Use MO2’s dropdown to select Lost Prophecies and run `openmw.exe` directly.  
 - You can still use the launcher (`openmw-launcher.exe`) to tweak settings like resolution or refresh rate.
 
 ---
